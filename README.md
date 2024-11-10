@@ -1,4 +1,4 @@
-👋 Hi, I’m @johnny453, an automation QA engineer with a passion for technology and continuous improvement. Over the years, I've honed my skills in quality assurance, ensuring that software products meet the highest standards of functionality and performance.
+👋 Hi, I’m John, an automation QA engineer with a passion for technology and continuous improvement. Over the years, I've honed my skills in quality assurance, ensuring that software products meet the highest standards of functionality and performance.
 
 👀 I’m interested in developing my skills to shift into a data engineering role. Data engineering fascinates me because of its critical role in enabling organizations to make data-driven decisions. I’m eager to explore this field further, leveraging my existing technical expertise to design and manage data systems that provide reliable and efficient data access.
 
